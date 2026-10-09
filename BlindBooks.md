@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Blind Books"
 subtitle: "A Directory of Books Written by Authors Who Are Blind or Have Low Vision"
 description: "A directory of books written by blind and low-vision authors, with a link to each, its category, formats, and year, and statistics about the collection."
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v1.0.0"
+version: "v1.1.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -20,7 +20,7 @@ keywords:
 
 ## Introduction {#introduction}
 
-This directory lists 105 books written by 60 authors who are blind or have low vision. It is a companion to [Blind Authors][blind-authors], which profiles the people. This page puts the books first, so you can find one by title, category, year, or format.
+This directory lists 106 books written by 61 authors who are blind or have low vision. It is a companion to [Blind Authors][blind-authors], which profiles the people. This page puts the books first, so you can find one by title, category, year, or format.
 
 A book is included when all of the following are true, the same tests Blind Authors uses:
 
@@ -46,15 +46,15 @@ Each book belongs to its author and publisher. This directory's own text is avai
 
 ## By the Numbers {#by-the-numbers}
 
-The directory holds 105 books by 60 authors, an average of 1.8 books per author (median 1). Of these, 42 authors have one book each; the most prolific are listed below.
+The directory holds 106 books by 61 authors, an average of 1.7 books per author (median 1). Of these, 43 authors have one book each; the most prolific are listed below.
 
 ### When the books appeared {#stats-years}
 
-The year of first publication is listed for 84 of the 105 books.
+The year of first publication is listed for 85 of the 106 books.
 
 - The 2000s: 7 books.
 - The 2010s: 41 books.
-- The 2020s: 36 books.
+- The 2020s: 37 books.
 - Earliest: 2001. Newest: 2026. Median year: 2019.
 - Busiest year: 2019, with 10 books.
 
@@ -72,17 +72,17 @@ Most first; each book has one category.
 - [Poetry](#category-poetry): 4
 - [Essays and commentary](#category-essays-and-commentary): 3
 - [Music](#category-music): 2
+- [Sports](#category-sports): 2
 - [Food and cooking](#category-food-and-cooking): 1
-- [Sports](#category-sports): 1
 
 ### Formats {#stats-formats}
 
-Counted from the Format field, which is filled in for 84 of the 105 books; a book in several formats counts once for each. Most first.
+Counted from the Format field, which is filled in for 85 of the 106 books; a book in several formats counts once for each. Most first.
 
 - Kindle: 50
 - EPUB: 27
 - PDF: 22
-- Audiobook: 13
+- Audiobook: 14
 - Word: 12
 - Print: 10
 - Braille: 9
@@ -95,7 +95,7 @@ Counted from the Format field, which is filled in for 84 of the 105 books; a boo
 - Apple Books: 1
 - NOOK: 1
 
-In all, 13 books have an audio edition, and 9 books have a braille or large-print edition.
+In all, 14 books have an audio edition, and 9 books have a braille or large-print edition.
 
 ### Where the books are available {#stats-source}
 
@@ -105,8 +105,8 @@ Counted by each book's main link.
 - Publisher or author website: 22
 - National Braille Press: 8
 - Smashwords: 4
+- Apple Books: 2
 - Audible: 2
-- Apple Books: 1
 - Bookshare: 1
 - Gumroad: 1
 - Kobo: 1
@@ -961,6 +961,16 @@ A cookbook of Vietnamese and American comfort food, woven through with personal 
 - Format: Kindle
 - Year: 2013
 
+### [Recreating Yourself: Recreation Options for Blind and Visually Impaired People in Today's World: For Children and Adults][book-recreating-yourself] {#book-recreating-yourself}
+
+A guide to recreation for blind and visually impaired children and adults, from sports adapted with sound cues, tactile markers and sighted guides to hobbies such as amateur radio and knitting, with the equipment makers and organizations that support them.
+
+- Author: [Dan Kysor][au-kysor]
+- Available from: Apple Books
+- Category: [Sports](#category-sports)
+- Format: Audiobook
+- Year: 2026
+
 ### [Returning Alive: 26 Amazing Stories of Human Survival][book-returning-alive] {#book-returning-alive}
 
 Two centuries of verified survival stories, with what each survivor did to come home.
@@ -1300,9 +1310,10 @@ Categories in alphabetical order, each with its books ordered by title.
 - [Uncanny Creatures: 26 Astonishing Forms of Life](#book-uncanny-creatures), Jamal Mazrui
 - [Unsettled Universe: 26 Baffling Anomalies in Modern Cosmology](#book-unsettled-universe), Jamal Mazrui
 
-### Sports (1 book) {#category-sports}
+### Sports (2 books) {#category-sports}
 
 - [Mastery in Men's Tennis: Among the Greatest Strokes of All Time](#book-mastery-tennis), Jamal Mazrui
+- [Recreating Yourself: Recreation Options for Blind and Visually Impaired People in Today's World: For Children and Adults](#book-recreating-yourself), Dan Kysor
 
 ### Technology and how-to guides (20 books) {#category-technology-and-how-to-guides}
 
@@ -1331,7 +1342,7 @@ Categories in alphabetical order, each with its books ordered by title.
 
 Newest first, each year's books ordered by title; books whose year is not listed come last.
 
-### 2026 (8 books) {#year-2026}
+### 2026 (9 books) {#year-2026}
 
 - [Blind Vibe Coding: Building Apps Nonvisually with AI](#book-blind-vibe-coding), Jamal Mazrui
 - [Chrome Plated Revisited: Using Google Chrome with JAWS for Windows](#book-chrome-plated-revisited), Brian Hartgen
@@ -1339,6 +1350,7 @@ Newest first, each year's books ordered by title; books whose year is not listed
 - [Getting Started with the MacBook Neo](#book-macbook-neo), Taylor Arndt
 - [Mastery in Nonvisual Accomplishment: Among the Greatest Blind Persons of All Time](#book-mastery-nonvisual), Jamal Mazrui
 - [No Sight Required — The Blind User's Guide to AI](#book-no-sight-required), Tony Gebhard
+- [Recreating Yourself: Recreation Options for Blind and Visually Impaired People in Today's World: For Children and Adults](#book-recreating-yourself), Dan Kysor
 - [Strange Truths: Objective Stories that Challenge Our Understanding of the World](#book-strange-truths), Jamal Mazrui
 - [Time to Go Zoom Revisited](#book-zoom-revisited), Brian Hartgen
 
@@ -1685,6 +1697,10 @@ Authors in alphabetical order by surname, each with books ordered by title. Each
 - [Letters to Borges](#book-letters-to-borges)
 - [Old Horse, What Is to Be Done?](#book-old-horse)
 
+### [Dan Kysor][au-kysor] (1 book) {#by-au-kysor}
+
+- [Recreating Yourself: Recreation Options for Blind and Visually Impaired People in Today's World: For Children and Adults](#book-recreating-yourself)
+
 ### [Bobbi LaChance][au-lachance] (2 books) {#by-au-lachance}
 
 - [Cobwebs](#book-cobwebs)
@@ -1795,6 +1811,7 @@ Authors in alphabetical order by surname, each with books ordered by title. Each
 - [The Transcriber](#book-the-transcriber)
 
 [book-31-cool-things]: https://www.nbp.org/ic/nbp/COOL-APPS.html
+[book-recreating-yourself]: https://books.apple.com/us/audiobook/recreating-yourself-recreation-options-for-blind-and/id6779771824
 [book-across-two-novembers]: https://www.amazon.com/ACROSS-TWO-NOVEMBERS-Blind-Bibliophile-ebook/dp/B072MCCFYT
 [book-amadeus-pro-maestro]: https://mosen.org/become-an-amadeus-pro-maestro/
 [book-blind-ambition]: https://www.amazon.com/Blind-Ambition-How-Victim-Visionary/dp/1400222648
@@ -1940,6 +1957,7 @@ Authors in alphabetical order by surname, each with books ordered by title. Each
 [au-kleege]: https://jamalmazrui.github.io/BlindAuthors/#au-kleege
 [au-knighton]: https://jamalmazrui.github.io/BlindAuthors/#au-knighton
 [au-kuusisto]: https://jamalmazrui.github.io/BlindAuthors/#au-kuusisto
+[au-kysor]: https://jamalmazrui.github.io/BlindAuthors/#au-kysor
 [au-lachance]: https://jamalmazrui.github.io/BlindAuthors/#au-lachance
 [au-leland]: https://jamalmazrui.github.io/BlindAuthors/#au-leland
 [au-martineau]: https://jamalmazrui.github.io/BlindAuthors/#au-martineau
