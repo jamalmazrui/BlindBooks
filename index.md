@@ -4,7 +4,7 @@ subtitle: "A Directory of Books Written by Authors Who Are Blind or Have Low Vis
 description: "A directory of books written by blind and low-vision authors, with a link to each, its category, formats, and year, and statistics about the collection."
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v1.1.0"
+version: "v1.2.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -20,7 +20,7 @@ keywords:
 
 ## Introduction {#introduction}
 
-This directory lists 106 books written by 61 authors who are blind or have low vision. It is a companion to [Blind Authors][blind-authors], which profiles the people. This page puts the books first, so you can find one by title, category, year, or format.
+This directory lists 107 books written by 61 authors who are blind or have low vision. It is a companion to [Blind Authors][blind-authors], which profiles the people. This page puts the books first, so you can find one by title, category, year, or format.
 
 A book is included when all of the following are true, the same tests Blind Authors uses:
 
@@ -46,15 +46,15 @@ Each book belongs to its author and publisher. This directory's own text is avai
 
 ## By the Numbers {#by-the-numbers}
 
-The directory holds 106 books by 61 authors, an average of 1.7 books per author (median 1). Of these, 43 authors have one book each; the most prolific are listed below.
+The directory holds 107 books by 61 authors, an average of 1.8 books per author (median 1). Of these, 43 authors have one book each; the most prolific are listed below.
 
 ### When the books appeared {#stats-years}
 
-The year of first publication is listed for 85 of the 106 books.
+The year of first publication is listed for 86 of the 107 books.
 
 - The 2000s: 7 books.
 - The 2010s: 41 books.
-- The 2020s: 37 books.
+- The 2020s: 38 books.
 - Earliest: 2001. Newest: 2026. Median year: 2019.
 - Busiest year: 2019, with 10 books.
 
@@ -63,7 +63,7 @@ The year of first publication is listed for 85 of the 106 books.
 Most first; each book has one category.
 
 - [Memoir and personal narrative](#category-memoir-and-personal-narrative): 31
-- [Technology and how-to guides](#category-technology-and-how-to-guides): 20
+- [Technology and how-to guides](#category-technology-and-how-to-guides): 21
 - [Fiction](#category-fiction): 14
 - [Science, history, and ideas](#category-science-history-and-ideas): 12
 - [History and culture of blindness](#category-history-and-culture-of-blindness): 7
@@ -77,15 +77,15 @@ Most first; each book has one category.
 
 ### Formats {#stats-formats}
 
-Counted from the Format field, which is filled in for 85 of the 106 books; a book in several formats counts once for each. Most first.
+Counted from the Format field, which is filled in for 86 of the 107 books; a book in several formats counts once for each. Most first.
 
 - Kindle: 50
 - EPUB: 27
 - PDF: 22
 - Audiobook: 14
-- Word: 12
+- Word: 13
+- Braille: 10
 - Print: 10
-- Braille: 9
 - Ebook: 5
 - MOBI: 4
 - Web page: 3
@@ -95,7 +95,7 @@ Counted from the Format field, which is filled in for 85 of the 106 books; a boo
 - Apple Books: 1
 - NOOK: 1
 
-In all, 14 books have an audio edition, and 9 books have a braille or large-print edition.
+In all, 14 books have an audio edition, and 10 books have a braille or large-print edition.
 
 ### Where the books are available {#stats-source}
 
@@ -103,7 +103,7 @@ Counted by each book's main link.
 
 - Amazon: 65
 - Publisher or author website: 22
-- National Braille Press: 8
+- National Braille Press: 9
 - Smashwords: 4
 - Apple Books: 2
 - Audible: 2
@@ -124,6 +124,7 @@ Authors with three or more books here, most first.
 - [Judy Dixon](#by-au-dixon): 3
 - [Brian Hartgen](#by-au-hartgen): 3
 - [Deborah Kendrick](#by-au-kendrick): 3
+- [Dean Martineau](#by-au-martineau): 3
 - [J. Pinto](#by-au-pinto): 3
 - [Abbie Johnson Taylor](#by-au-taylor): 3
 
@@ -1163,6 +1164,16 @@ Keyboard commands and customizations across Windows, JAWS, and Microsoft Word fo
 - Format: Word
 - Year: 2019
 
+### [Windows Screen Reader Keystroke Compendium: Covering JAWS, NVDA, and Narrator][book-screen-reader-compendium] {#book-screen-reader-compendium}
+
+The keystrokes of JAWS, NVDA, and Narrator in one volume, for general use, web and app browsing, and Microsoft Office, updated in 2024.
+
+- Author: [Dean Martineau][au-martineau]
+- Available from: National Braille Press
+- Category: [Technology and how-to guides](#category-technology-and-how-to-guides)
+- Format: Braille, Word
+- Year: 2020
+
 ### [The Windows Screen Reader Primer: All the Basics and More][book-windows-primer] {#book-windows-primer}
 
 A teaching guide for JAWS, NVDA, and Narrator users covering Windows, Office, browsers, and more.
@@ -1315,7 +1326,7 @@ Categories in alphabetical order, each with its books ordered by title.
 - [Mastery in Men's Tennis: Among the Greatest Strokes of All Time](#book-mastery-tennis), Jamal Mazrui
 - [Recreating Yourself: Recreation Options for Blind and Visually Impaired People in Today's World: For Children and Adults](#book-recreating-yourself), Dan Kysor
 
-### Technology and how-to guides (20 books) {#category-technology-and-how-to-guides}
+### Technology and how-to guides (21 books) {#category-technology-and-how-to-guides}
 
 - [31 Cool Things You Can Do with Your iPhone: From Fun, to Practical, to Entertaining](#book-31-cool-things), Judy Dixon
 - [Become an Amadeus Pro Maestro](#book-amadeus-pro-maestro), Jonathan Mosen
@@ -1335,6 +1346,7 @@ Categories in alphabetical order, each with its books ordered by title.
 - [The Power of PowerPoint: Using a Screen Reader to Create Attention-Grabbing Presentations](#book-power-of-powerpoint), Judy Dixon
 - [Time to Go Zoom Revisited](#book-zoom-revisited), Brian Hartgen
 - [Windows Keyboard Power User Guide](#book-windows-keyboard), Dean Martineau
+- [Windows Screen Reader Keystroke Compendium: Covering JAWS, NVDA, and Narrator](#book-screen-reader-compendium), Dean Martineau
 - [The Windows Screen Reader Primer: All the Basics and More](#book-windows-primer), David Kingsbury
 - [Winning Teams Version 3](#book-winning-teams), Brian Hartgen
 
@@ -1370,6 +1382,7 @@ Newest first, each year's books ordered by title; books whose year is not listed
 - [The Braille Encyclopedia: Brief Essays on Altered Sight](#book-braille-encyclopedia), Naomi Cohn
 - [Vision: A Memoir of Blindness and Justice](#book-vision-tatel), David S. Tatel
 - [What Should Not Remain Silent](#book-what-should-not-remain-silent), Anthony R. Candela
+- [Windows Screen Reader Keystroke Compendium: Covering JAWS, NVDA, and Narrator](#book-screen-reader-compendium), Dean Martineau
 - [The Windows Screen Reader Primer: All the Basics and More](#book-windows-primer), David Kingsbury
 
 ### 2023 (3 books) {#year-2023}
@@ -1395,10 +1408,11 @@ Newest first, each year's books ordered by title; books whose year is not listed
 - [There Plant Eyes: A Personal and Cultural History of Blindness](#book-there-plant-eyes), M. Leona Godin
 - [Why Grandma Doesn't Know Me](#book-why-grandma), Abbie Johnson Taylor
 
-### 2020 (2 books) {#year-2020}
+### 2020 (3 books) {#year-2020}
 
 - [Hello Darkness, My Old Friend: How Daring Dreams and Unyielding Friendship Turned One Man's Blindness Into an Extraordinary Vision for Life](#book-hello-darkness), Sanford D. Greenberg
 - [Old Horse, What Is to Be Done?](#book-old-horse), Stephen Kuusisto
+- [Windows Screen Reader Keystroke Compendium: Covering JAWS, NVDA, and Narrator](#book-screen-reader-compendium), Dean Martineau
 
 ### 2019 (10 books) {#year-2019}
 
@@ -1710,10 +1724,11 @@ Authors in alphabetical order by surname, each with books ordered by title. Each
 
 - [The Country of the Blind: A Memoir at the End of Sight](#book-country-of-the-blind)
 
-### [Dean Martineau][au-martineau] (2 books) {#by-au-martineau}
+### [Dean Martineau][au-martineau] (3 books) {#by-au-martineau}
 
 - [Get Cracking with Chrome for Windows](#book-get-cracking-chrome)
 - [Windows Keyboard Power User Guide](#book-windows-keyboard)
+- [Windows Screen Reader Keystroke Compendium: Covering JAWS, NVDA, and Narrator](#book-screen-reader-compendium)
 
 ### [Jamal Mazrui][au-mazrui] (18 books) {#by-au-mazrui}
 
@@ -1915,6 +1930,7 @@ Authors in alphabetical order by surname, each with books ordered by title. Each
 [book-when-your-ears]: https://shop.nbp.org/products/when-your-ears-cant-help-you-see
 [book-why-grandma]: https://www.smashwords.com/books/view/1108190
 [book-windows-keyboard]: https://www.techforblind.us/
+[book-screen-reader-compendium]: https://shop.nbp.org/products/windows-screen-reader-keystroke-compendium-2024-update
 [book-windows-primer]: https://carroll.org/the-windows-screen-reader-primer-all-the-basics-and-more-third-edition
 [book-winning-teams]: https://hartgenconsultancy.com/teams/
 [book-words-of-life]: https://www.amazon.com/Words-Life-Essays-Ann-Chiappetta/dp/1795513845
