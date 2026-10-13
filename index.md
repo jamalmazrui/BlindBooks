@@ -1,6 +1,6 @@
 ---
 title: "Blind Books"
-subtitle: "A Directory of Books Written by Authors Who Are Blind or Have Low Vision"
+subtitle: "A Directory of 107 Books Written by Authors Who Are Blind or Have Low Vision"
 description: "A directory of books written by blind and low-vision authors, with a link to each, its category, formats, and year, and statistics about the collection."
 author: "Jamal Mazrui"
 date: "October 2026"
