@@ -4,7 +4,7 @@ subtitle: "A Directory of 107 Books Written by Authors Who Are Blind or Have Low
 description: "A directory of books written by blind and low-vision authors, with a link to each, its category, formats, and year, and statistics about the collection."
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v1.2.0"
+version: "v1.2.1"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -80,10 +80,10 @@ Most first; each book has one category.
 Counted from the Format field, which is filled in for 86 of the 107 books; a book in several formats counts once for each. Most first.
 
 - Kindle: 50
-- EPUB: 27
-- PDF: 22
-- Audiobook: 14
-- Word: 13
+- EPUB: 28
+- PDF: 23
+- Audiobook: 15
+- Word: 14
 - Braille: 10
 - Print: 10
 - Ebook: 5
@@ -95,7 +95,7 @@ Counted from the Format field, which is filled in for 86 of the 107 books; a boo
 - Apple Books: 1
 - NOOK: 1
 
-In all, 14 books have an audio edition, and 10 books have a braille or large-print edition.
+In all, 15 books have an audio edition, and 10 books have a braille or large-print edition.
 
 ### Where the books are available {#stats-source}
 
@@ -861,12 +861,12 @@ A guide to advocating for yourself in medical settings as a blind or low-vision 
 
 ### [No Sight Required — The Blind User's Guide to AI][book-no-sight-required] {#book-no-sight-required}
 
-A practical guide to using ChatGPT, Claude, and Gemini with NVDA, JAWS, VoiceOver, and TalkBack.
+A practical guide to using ChatGPT, Claude, and Gemini with NVDA, JAWS, VoiceOver, and TalkBack; a Spanish edition, No se requiere vista, translated by Mateo Quintela, followed in October 2026.
 
 - Author: [Tony Gebhard][au-gebhard]
 - Available from: Publisher or author website
 - Category: [Technology and how-to guides](#category-technology-and-how-to-guides)
-- Format: Kindle, Print
+- Format: Audiobook, EPUB, Kindle, PDF, Print, Word
 - Year: 2026
 
 ## O {#letter-o}
