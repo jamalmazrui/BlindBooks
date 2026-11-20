@@ -1,10 +1,10 @@
 ---
 title: "Blind Books"
-subtitle: "A Directory of 107 Books Written by Authors Who Are Blind or Have Low Vision"
+subtitle: "A Directory of 110 Books Written by Authors Who Are Blind or Have Low Vision"
 description: "A directory of books written by blind and low-vision authors, with a link to each, its category, formats, and year, and statistics about the collection."
 author: "Jamal Mazrui"
-date: "October 2026"
-version: "v1.2.1"
+date: "November 2026"
+version: "v1.3.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -20,7 +20,7 @@ keywords:
 
 ## Introduction {#introduction}
 
-This directory lists 107 books written by 61 authors who are blind or have low vision. It is a companion to [Blind Authors][blind-authors], which profiles the people. This page puts the books first, so you can find one by title, category, year, or format.
+This directory lists 110 books written by 63 authors who are blind or have low vision. It is a companion to [Blind Authors][blind-authors], which profiles the people. This page puts the books first, so you can find one by title, category, year, or format.
 
 A book is included when all of the following are true, the same tests Blind Authors uses:
 
@@ -46,15 +46,15 @@ Each book belongs to its author and publisher. This directory's own text is avai
 
 ## By the Numbers {#by-the-numbers}
 
-The directory holds 107 books by 61 authors, an average of 1.8 books per author (median 1). Of these, 43 authors have one book each; the most prolific are listed below.
+The directory holds 110 books by 63 authors, an average of 1.7 books per author (median 1). Of these, 44 authors have one book each; the most prolific are listed below.
 
 ### When the books appeared {#stats-years}
 
-The year of first publication is listed for 86 of the 107 books.
+The year of first publication is listed for 89 of the 110 books.
 
-- The 2000s: 7 books.
-- The 2010s: 41 books.
-- The 2020s: 38 books.
+- The 2000s: 8 books.
+- The 2010s: 42 books.
+- The 2020s: 39 books.
 - Earliest: 2001. Newest: 2026. Median year: 2019.
 - Busiest year: 2019, with 10 books.
 
@@ -63,30 +63,30 @@ The year of first publication is listed for 86 of the 107 books.
 Most first; each book has one category.
 
 - [Memoir and personal narrative](#category-memoir-and-personal-narrative): 31
-- [Technology and how-to guides](#category-technology-and-how-to-guides): 21
-- [Fiction](#category-fiction): 14
+- [Technology and how-to guides](#category-technology-and-how-to-guides): 22
+- [Fiction](#category-fiction): 15
 - [Science, history, and ideas](#category-science-history-and-ideas): 12
 - [History and culture of blindness](#category-history-and-culture-of-blindness): 7
 - [Biography](#category-biography): 5
 - [Disability, rehabilitation, and law](#category-disability-rehabilitation-and-law): 5
 - [Poetry](#category-poetry): 4
-- [Essays and commentary](#category-essays-and-commentary): 3
+- [Essays and commentary](#category-essays-and-commentary): 4
 - [Music](#category-music): 2
 - [Sports](#category-sports): 2
 - [Food and cooking](#category-food-and-cooking): 1
 
 ### Formats {#stats-formats}
 
-Counted from the Format field, which is filled in for 86 of the 107 books; a book in several formats counts once for each. Most first.
+Counted from the Format field, which is filled in for 89 of the 110 books; a book in several formats counts once for each. Most first.
 
 - Kindle: 50
 - EPUB: 28
 - PDF: 23
-- Audiobook: 15
+- Audiobook: 17
 - Word: 14
 - Braille: 10
-- Print: 10
-- Ebook: 5
+- Print: 11
+- Ebook: 6
 - MOBI: 4
 - Web page: 3
 - DAISY: 2
@@ -95,18 +95,18 @@ Counted from the Format field, which is filled in for 86 of the 107 books; a boo
 - Apple Books: 1
 - NOOK: 1
 
-In all, 15 books have an audio edition, and 10 books have a braille or large-print edition.
+In all, 17 books have an audio edition, and 10 books have a braille or large-print edition.
 
 ### Where the books are available {#stats-source}
 
 Counted by each book's main link.
 
 - Amazon: 65
-- Publisher or author website: 22
+- Publisher or author website: 23
 - National Braille Press: 9
 - Smashwords: 4
+- Audible: 4
 - Apple Books: 2
-- Audible: 2
 - Bookshare: 1
 - Gumroad: 1
 - Kobo: 1
@@ -1024,6 +1024,16 @@ An omnibus that gathers the author's Strange Truths series of accessible books o
 
 ## T {#letter-t}
 
+### [Taking Video Out of the Game: A Game Developer's Guide to Total Blind Accessibility][book-taking-video-out] {#book-taking-video-out}
+
+A guide for game developers to making games fully playable without sight, from the history of blind accessibility to guidelines on narration, navigation, audio cues, and combat.
+
+- Author: [Brandon Cole (d. 2024)][au-cole]
+- Available from: Publisher or author website, also from [Bookshare][book-taking-video-out-bookshare]
+- Category: [Technology and how-to guides](#category-technology-and-how-to-guides)
+- Format: Ebook, Print
+- Year: 2025
+
 ### [There Plant Eyes: A Personal and Cultural History of Blindness][book-there-plant-eyes] {#book-there-plant-eyes}
 
 A blend of memoir and cultural history tracing how blindness has shaped art, language, and ideas.
@@ -1062,6 +1072,16 @@ A short novel narrated by the younger brother of a blind girl.
 - Year: 2013
 
 ## U {#letter-u}
+
+### [The Ultimate Gift][book-ultimate-gift] {#book-ultimate-gift}
+
+A bestselling novel, later a feature film, in which a spoiled heir must complete a year of tasks set by his late uncle to learn what his inheritance is.
+
+- Author: [Jim Stovall][au-stovall]
+- Available from: Audible, also from [Bookshare][book-ultimate-gift-bookshare]
+- Category: [Fiction](#category-fiction)
+- Format: Audiobook
+- Year: 2001
 
 ### [Uncanny Creatures: 26 Astonishing Forms of Life][book-uncanny-creatures] {#book-uncanny-creatures}
 
@@ -1193,6 +1213,16 @@ A fully rewritten text training book, in Word and HTML, on using Microsoft Teams
 - Category: [Technology and how-to guides](#category-technology-and-how-to-guides)
 - Format: Web page
 
+### [Wisdom for Winners, Volume Three][book-wisdom-for-winners-3] {#book-wisdom-for-winners-3}
+
+Short pieces drawn from his syndicated Winners' Wisdom columns on success, work, and character, arranged to be read a few at a time.
+
+- Author: [Jim Stovall][au-stovall]
+- Available from: Audible
+- Category: [Essays and commentary](#category-essays-and-commentary)
+- Format: Audiobook
+- Year: 2017
+
 ### [Words of Life: Poems and Essays][book-words-of-life] {#book-words-of-life}
 
 Poems, essays, and flash fiction on nature, vision loss, family, and the writing life.
@@ -1223,13 +1253,14 @@ Categories in alphabetical order, each with its books ordered by title.
 - [People With Disabilities and Employment Law: Recent Developments, Emerging Issues, and What They Mean in Everyday Life](#book-employment-law), Steven B. Mendelsohn
 - [When Your Ears Can't Help You See: Strategies for Blind and Low Vision Individuals with Hearing Loss](#book-when-your-ears), Deborah Kendrick
 
-### Essays and commentary (3 books) {#category-essays-and-commentary}
+### Essays and commentary (4 books) {#category-essays-and-commentary}
 
 - [Breaking It Down and Connecting the Dots: Creating Common Ground Where Contention Rules](#book-breaking-it-down), Peter Altschul
 - [Riding Elephants: Creating Common Ground Where Contention Rules](#book-riding-elephants), Peter Altschul
 - [What Should Not Remain Silent](#book-what-should-not-remain-silent), Anthony R. Candela
+- [Wisdom for Winners, Volume Three](#book-wisdom-for-winners-3), Jim Stovall
 
-### Fiction (14 books) {#category-fiction}
+### Fiction (15 books) {#category-fiction}
 
 - [The Blind Detective](#book-blind-detective), Tristen Breitenfeldt
 - [Braided Love](#book-braided-love), J. Pinto
@@ -1243,6 +1274,7 @@ Categories in alphabetical order, each with its books ordered by title.
 - [Living Vicariously in Wyoming: Stories](#book-living-vicariously), Abbie Johnson Taylor
 - [Outside Myself](#book-outside-myself), Kristen Witucki
 - [The Transcriber](#book-the-transcriber), Kristen Witucki
+- [The Ultimate Gift](#book-ultimate-gift), Jim Stovall
 - [Vision Dreams: A Parable](#book-vision-dreams), Anthony R. Candela
 - [Why Grandma Doesn't Know Me](#book-why-grandma), Abbie Johnson Taylor
 
@@ -1326,7 +1358,7 @@ Categories in alphabetical order, each with its books ordered by title.
 - [Mastery in Men's Tennis: Among the Greatest Strokes of All Time](#book-mastery-tennis), Jamal Mazrui
 - [Recreating Yourself: Recreation Options for Blind and Visually Impaired People in Today's World: For Children and Adults](#book-recreating-yourself), Dan Kysor
 
-### Technology and how-to guides (21 books) {#category-technology-and-how-to-guides}
+### Technology and how-to guides (22 books) {#category-technology-and-how-to-guides}
 
 - [31 Cool Things You Can Do with Your iPhone: From Fun, to Practical, to Entertaining](#book-31-cool-things), Judy Dixon
 - [Become an Amadeus Pro Maestro](#book-amadeus-pro-maestro), Jonathan Mosen
@@ -1344,6 +1376,7 @@ Categories in alphabetical order, each with its books ordered by title.
 - [No Sight Required — The Blind User's Guide to AI](#book-no-sight-required), Tony Gebhard
 - [Personal Power: The iOS Edition](#book-personal-power), Michael Feir
 - [The Power of PowerPoint: Using a Screen Reader to Create Attention-Grabbing Presentations](#book-power-of-powerpoint), Judy Dixon
+- [Taking Video Out of the Game: A Game Developer's Guide to Total Blind Accessibility](#book-taking-video-out), Brandon Cole (d. 2024)
 - [Time to Go Zoom Revisited](#book-zoom-revisited), Brian Hartgen
 - [Windows Keyboard Power User Guide](#book-windows-keyboard), Dean Martineau
 - [Windows Screen Reader Keystroke Compendium: Covering JAWS, NVDA, and Narrator](#book-screen-reader-compendium), Dean Martineau
@@ -1366,13 +1399,14 @@ Newest first, each year's books ordered by title; books whose year is not listed
 - [Strange Truths: Objective Stories that Challenge Our Understanding of the World](#book-strange-truths), Jamal Mazrui
 - [Time to Go Zoom Revisited](#book-zoom-revisited), Brian Hartgen
 
-### 2025 (6 books) {#year-2025}
+### 2025 (7 books) {#year-2025}
 
 - [Connecting Dots: A Blind Life](#book-connecting-dots), Joshua A. Miele
 - [iOS Access for All](#book-ios-access-for-all), Shelly Brisbin
 - [Legacy of Mazrui: Enduring Esteem for the Man and His Work](#book-legacy-of-mazrui), Jamal Mazrui
 - [Living Vicariously in Wyoming: Stories](#book-living-vicariously), Abbie Johnson Taylor
 - [Personal Power: The iOS Edition](#book-personal-power), Michael Feir
+- [Taking Video Out of the Game: A Game Developer's Guide to Total Blind Accessibility](#book-taking-video-out), Brandon Cole (d. 2024)
 - [Unseen: How I Lost My Vision but Found My Voice](#book-unseen), Molly Burke
 
 ### 2024 (6 books) {#year-2024}
@@ -1437,13 +1471,14 @@ Newest first, each year's books ordered by title; books whose year is not listed
 - [The Mystery of America: What I Learned and Love About this Country](#book-mystery-of-america), Jalil Mortazavi
 - [Outside Myself](#book-outside-myself), Kristen Witucki
 
-### 2017 (5 books) {#year-2017}
+### 2017 (6 books) {#year-2017}
 
 - [Breaking It Down and Connecting the Dots: Creating Common Ground Where Contention Rules](#book-breaking-it-down), Peter Altschul
 - [The Bumpy Road to Assisted Living: A Daughter's Memoir](#book-bumpy-road), Mary Hiland
 - [The Demmies: A Novel](#book-the-demmies), Ann K. Parsons
 - [Follow Your Dog: A Story of Love and Trust](#book-follow-your-dog), Ann Chiappetta
 - [John Swearingen: Know Your Place Blind Boy!](#book-john-swearingen), Peggy Chong
+- [Wisdom for Winners, Volume Three](#book-wisdom-for-winners-3), Jim Stovall
 
 ### 2016 (5 books) {#year-2016}
 
@@ -1503,9 +1538,10 @@ Newest first, each year's books ordered by title; books whose year is not listed
 
 - [Freedom for the Blind: The Secret is Empowerment](#book-freedom-for-the-blind), James H. Omvig
 
-### 2001 (1 book) {#year-2001}
+### 2001 (2 books) {#year-2001}
 
 - [Touch the Top of the World: A Blind Man's Journey to Climb Farther than the Eye Can See](#book-touch-the-top), Erik Weihenmayer
+- [The Ultimate Gift](#book-ultimate-gift), Jim Stovall
 
 ### Year not listed (21 books) {#year-year-not-listed}
 
@@ -1594,6 +1630,10 @@ Authors in alphabetical order by surname, each with books ordered by title. Each
 ### [Naomi Cohn][au-cohn] (1 book) {#by-au-cohn}
 
 - [The Braille Encyclopedia: Brief Essays on Altered Sight](#book-braille-encyclopedia)
+
+### [Brandon Cole (d. 2024)][au-cole] (1 book) {#by-au-cole}
+
+- [Taking Video Out of the Game: A Game Developer's Guide to Total Blind Accessibility](#book-taking-video-out)
 
 ### [Wendy S. David][au-david] (1 book) {#by-au-david}
 
@@ -1802,6 +1842,11 @@ Authors in alphabetical order by surname, each with books ordered by title. Each
 
 - [Blindness for Beginners: A Renewed Vision of the Possible](#book-blindness-for-beginners)
 
+### [Jim Stovall][au-stovall] (2 books) {#by-au-stovall}
+
+- [The Ultimate Gift](#book-ultimate-gift)
+- [Wisdom for Winners, Volume Three](#book-wisdom-for-winners-3)
+
 ### [Red Szell][au-szell] (1 book) {#by-au-szell}
 
 - [The Blind Man of Hoy: A True Story](#book-blind-man-of-hoy)
@@ -1947,6 +1992,7 @@ Authors in alphabetical order by surname, each with books ordered by title. Each
 [au-chong]: https://jamalmazrui.github.io/BlindAuthors/#au-chong
 [au-cipriani]: https://jamalmazrui.github.io/BlindAuthors/#au-cipriani
 [au-cohn]: https://jamalmazrui.github.io/BlindAuthors/#au-cohn
+[au-cole]: https://jamalmazrui.github.io/BlindAuthors/#au-cole
 [au-david]: https://jamalmazrui.github.io/BlindAuthors/#au-david
 [au-dixon]: https://jamalmazrui.github.io/BlindAuthors/#au-dixon
 [au-dresner]: https://jamalmazrui.github.io/BlindAuthors/#au-dresner
@@ -1990,11 +2036,17 @@ Authors in alphabetical order by surname, each with books ordered by title. Each
 [au-rowell]: https://jamalmazrui.github.io/BlindAuthors/#au-rowell
 [au-spratt]: https://jamalmazrui.github.io/BlindAuthors/#au-spratt
 [au-steel]: https://jamalmazrui.github.io/BlindAuthors/#au-steel
+[au-stovall]: https://jamalmazrui.github.io/BlindAuthors/#au-stovall
 [au-szell]: https://jamalmazrui.github.io/BlindAuthors/#au-szell
 [au-tatel]: https://jamalmazrui.github.io/BlindAuthors/#au-tatel
 [au-taylor]: https://jamalmazrui.github.io/BlindAuthors/#au-taylor
 [au-weihenmayer]: https://jamalmazrui.github.io/BlindAuthors/#au-weihenmayer
 [au-witucki]: https://jamalmazrui.github.io/BlindAuthors/#au-witucki
+[book-taking-video-out]: https://www.routledge.com/Taking-Video-Out-of-the-Game-A-Game-Developers-Guide-to-Total-Blind-Accessibility/Cole/p/book/9781032557397
+[book-taking-video-out-bookshare]: https://www.bookshare.org/browse/book/6784574
+[book-ultimate-gift]: https://www.audible.co.uk/pd/The-Ultimate-Gift-Audiobook/B004EWSSVI
+[book-ultimate-gift-bookshare]: https://www.bookshare.org/browse/book/1058569
+[book-wisdom-for-winners-3]: https://origin-www.audible.ca/pd/Wisdom-for-Winners-Volume-Three-Audiobook/B0728P3GQ3
 [blind-apps]: https://jamalmazrui.github.io/BlindApps/
 [blind-authors]: https://jamalmazrui.github.io/BlindAuthors/
 [blind-creators]: https://jamalmazrui.github.io/BlindCreators/
